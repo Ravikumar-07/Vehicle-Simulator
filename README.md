@@ -10,23 +10,24 @@ The scenario have following fields:
 
 * Scenario id
 
-Scenario name
+* Scenario name
 
-Time
+* Time
 
 The Vehicle have following fields:
 
-Vehicle id
+* Vehicle id
 
-Vehicle name
+* Vehicle name
 
-Initial Position X
+* Initial Position X
 
-Initial Position Y
+* Initial Position Y
 
-Speed
+* Speed
 
-Direction (can have only Towards, Backwards, Upwards and Downwards).
+* Direction (can have only Towards, Backwards, Upwards and Downwards).
 
 json-server is used for storing data use.
+
 For animation I have used Framer motion library.
