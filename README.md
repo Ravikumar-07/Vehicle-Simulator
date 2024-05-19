@@ -8,7 +8,7 @@ On the Home page, users can select the scenarios they have created and start the
 
 The scenario have following fields:
 
-Scenario id
+* Scenario id
 
 Scenario name
 
