@@ -34,6 +34,6 @@ json-server is used for storing data use.
 
 For animation I have used Framer motion library.
 
-### Preview
+## Preview
 <image src = "![Screenshot 2024-05-16 212810](https://github.com/Ravikumar-07/Vehicle-Simulator/assets/140155480/0b25d951-bd52-4cb0-b9cb-19688fe970aa)
 ">
