@@ -33,8 +33,3 @@ The Vehicle have following fields:
 json-server is used for storing data use.
 
 For animation I have used Framer motion library.
-
-## Preview
-
-<image src = "![image](https://github.com/Ravikumar-07/Vehicle-Simulator/assets/140155480/7a605a44-6f0c-4b0e-b585-894c758bfc23)
-">
